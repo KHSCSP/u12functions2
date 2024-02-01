@@ -13,6 +13,8 @@ def area_calculator(diameter):
 def multiple():
     return 42, 13
 
+# TODO define 'many', receives an arbitrary number of params
+
 
 
 # the runnable code begins here
