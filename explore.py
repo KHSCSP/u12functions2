@@ -37,3 +37,7 @@ a, b = multiple()
 print("functions can return multiple values:")
 print(a)
 print(b)
+
+
+# TODO call the 'many' function several times, with different numbers of parameters
+
